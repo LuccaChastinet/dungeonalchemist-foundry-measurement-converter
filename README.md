@@ -30,7 +30,7 @@ This script was made to help the community easily switch from feet-based maps to
 4. **Run the script**:
 
    ```bash
-   python update_all_jsons.py
+   python measurement_converter.py
    ```
 5. **Import into FoundryVTT** using Dungeon Alchemist’s official guide:
    👉 [https://www.dungeonalchemist.com/import-to-foundry](https://www.dungeonalchemist.com/import-to-foundry)
